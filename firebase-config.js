@@ -2,7 +2,7 @@
 // Firebase 콘솔 > 프로젝트 설정 > 일반 > "내 앱" > SDK 설정 및 구성 에서 복사할 수 있습니다.
 // 아래는 예시 형태입니다. 실제 값으로 반드시 교체해야 앱이 동작합니다.
 
-export const firebaseConfig = {
+const firebaseConfig = {
  apiKey: "AIzaSyCfPjSSYpSDK6i7kZ4QMqvT9T5w0RMoFkE",
   authDomain: "rushhour-report.firebaseapp.com",
   projectId: "rushhour-report",
